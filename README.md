@@ -1,2 +1,2 @@
 # ferin_python
-from intor to coursera
+from intro to CS
